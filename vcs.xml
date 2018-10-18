@@ -106,7 +106,7 @@
     </option>
     <option name="cloneParentDir" value="C:\Htdocs\" />
   </component>
-  <component name="Vcs.Log.App.Settings">
-    <option name="MIGRATED" value="true" />
+  <component name="VcsApplicationSettings">
+    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/Htdocs/qooapp-admin" />
   </component>
 </application>
