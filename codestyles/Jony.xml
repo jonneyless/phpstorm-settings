@@ -19,7 +19,7 @@
     <option name="HTML_KEEP_BLANK_LINES" value="1" />
     <option name="HTML_ENFORCE_QUOTES" value="true" />
   </HTMLCodeStyleSettings>
-  <JSCodeStyleSettings>
+  <JSCodeStyleSettings version="0">
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
     <option name="INDENT_CHAINED_CALLS" value="false" />
   </JSCodeStyleSettings>
@@ -42,18 +42,39 @@
     <option name="myVersion" value="0" />
     <option name="ALIAS_CASE" value="4" />
     <option name="TYPE_CASE" value="3" />
+    <option name="QUERY_TRUE_INDENT" value="false" />
+    <option name="QUERY_ALIGN_ELEMENTS" value="false" />
+    <option name="QUERY_ALIGN_LINE_COMMENTS" value="false" />
+    <option name="INSERT_EL_COMMA" value="2" />
     <option name="SET_EL_WRAP" value="0" />
     <option name="SET_EL_COMMA" value="0" />
     <option name="SET_ALIGN_EQUAL_SIGN" value="false" />
     <option name="WITH_EL_WRAP" value="0" />
     <option name="WITH_EL_COMMA" value="0" />
     <option name="SELECT_EL_WRAP" value="3" />
+    <option name="SELECT_EL_COMMA" value="2" />
     <option name="SELECT_ALIGN_AS" value="false" />
     <option name="FROM_EL_WRAP" value="2" />
+    <option name="FROM_EL_COMMA" value="2" />
     <option name="FROM_WRAP_JOIN_1" value="false" />
     <option name="FROM_WRAP_JOIN_2" value="false" />
+    <option name="FROM_PLACE_ON" value="10" />
     <option name="WHERE_EL_WRAP" value="3" />
     <option name="WHERE_EL_BOUND" value="2" />
+    <option name="ORDER_EL_COMMA" value="2" />
+    <option name="TABLE_OPENING" value="1" />
+    <option name="TABLE_CONTENT" value="2" />
+    <option name="TABLE_CLOSING" value="3" />
+    <option name="TABLE_TYPES_ALIGN" value="false" />
+    <option name="TABLE_DEFAULTS_ALIGN" value="false" />
+    <option name="TABLE_NULLABILITIES_ALIGN" value="false" />
+    <option name="TABLE_ALTER_INSTRUCTION_ALIGN" value="false" />
+    <option name="POST_OPT_WRAP_2" value="false" />
+    <option name="POST_OPT_ALIGN" value="false" />
+    <option name="ROUTINE_ARG_COMMA" value="2" />
+    <option name="IMP_DECLARE_EL_WRAP" value="3" />
+    <option name="IMP_DECLARE_ALIGN_TYPE" value="false" />
+    <option name="IMP_IF_THEN_WRAP_THEN" value="true" />
     <option name="CORTEGE_SPACE_BEFORE_L_PAREN" value="false" />
     <option name="EXPR_SPACE_AROUND_OPERATOR" value="2" />
     <option name="EXPR_BINARY_OP_ALIGN" value="false" />
@@ -112,7 +133,6 @@
     <option name="SPACE_AFTER_TYPE_CAST" value="true" />
     <option name="SPACE_BEFORE_CLASS_LBRACE" value="false" />
     <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
-    <option name="ARRAY_INITIALIZER_WRAP" value="5" />
     <option name="ARRAY_INITIALIZER_LBRACE_ON_NEXT_LINE" value="true" />
     <option name="ARRAY_INITIALIZER_RBRACE_ON_NEXT_LINE" value="true" />
     <option name="IF_BRACE_FORCE" value="3" />
