@@ -107,7 +107,7 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="ssh://git@gitlab.corp.qoo-app.com:2215/server/deploy.git" />
+          <option name="url" value="ssh://git@gitlab.corp.qoo-app.com:2215/server/qooapp-sso.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
