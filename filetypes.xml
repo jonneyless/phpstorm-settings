@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping ext="mwb" type="Native" />
       <mapping pattern="_grid_item_view" type="PHP" />
+      <mapping pattern="model" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="rebase" type="PLAIN_TEXT" />
       <mapping pattern="yii" type="PLAIN_TEXT" />
