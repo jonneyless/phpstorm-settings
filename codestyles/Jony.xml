@@ -13,6 +13,12 @@
     <option name="HEX_COLOR_LOWER_CASE" value="true" />
     <option name="HEX_COLOR_LONG_FORMAT" value="true" />
   </CssCodeStyleSettings>
+  <CsvCodeStyleSettings>
+    <option name="TRIM_LEADING_WHITE_SPACES" value="true" />
+    <option name="TRIM_TRAILING_WHITE_SPACES" value="true" />
+    <option name="TABULARIZE" value="false" />
+    <option name="WHITE_SPACES_OUTSIDE_QUOTES" value="false" />
+  </CsvCodeStyleSettings>
   <DB2CodeStyleSettings version="0">
     <option name="myVersion" value="0" />
     <option name="ALIAS_CASE" value="4" />
