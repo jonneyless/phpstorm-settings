@@ -13,6 +13,12 @@
     <option name="HEX_COLOR_LOWER_CASE" value="true" />
     <option name="HEX_COLOR_LONG_FORMAT" value="true" />
   </CssCodeStyleSettings>
+  <CsvCodeStyleSettings>
+    <option name="TRIM_LEADING_WHITE_SPACES" value="true" />
+    <option name="TRIM_TRAILING_WHITE_SPACES" value="true" />
+    <option name="TABULARIZE" value="false" />
+    <option name="WHITE_SPACES_OUTSIDE_QUOTES" value="false" />
+  </CsvCodeStyleSettings>
   <DB2CodeStyleSettings version="0">
     <option name="myVersion" value="0" />
     <option name="ALIAS_CASE" value="4" />
@@ -477,11 +483,6 @@
     <option name="KEEP_LINE_BREAKS" value="false" />
     <option name="KEEP_BLANK_LINES_IN_CODE" value="0" />
     <option name="IF_BRACE_FORCE" value="3" />
-    <indentOptions>
-      <option name="INDENT_SIZE" value="2" />
-      <option name="CONTINUATION_INDENT_SIZE" value="2" />
-      <option name="TAB_SIZE" value="2" />
-    </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="PHP">
     <option name="KEEP_CONTROL_STATEMENT_IN_ONE_LINE" value="false" />
