@@ -1,0 +1,8 @@
+<templateSet group="Zen CSS">
+  <template name="cor" value="counter-reset:$VAR0$;" description="counter-reset:...;" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="true" />
+    </context>
+  </template>
+</templateSet>
