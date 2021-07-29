@@ -102,11 +102,6 @@
                       <FeaturePluginData displayName="PHP 远程调试" pluginName="PHP" pluginId="com.jetbrains.php" bundled="true" />
                     </value>
                   </entry>
-                  <entry key="PhpSpecConfigurationType">
-                    <value>
-                      <FeaturePluginData displayName="PHPSpec" pluginName="PHPSpec BDD Framework" pluginId="com.jetbrains.php.phpspec" bundled="true" />
-                    </value>
-                  </entry>
                   <entry key="PhpWebAppRunConfigurationType">
                     <value>
                       <FeaturePluginData displayName="PHP Web 页面" pluginName="PHP" pluginId="com.jetbrains.php" bundled="true" />
@@ -140,11 +135,6 @@
                   <entry key="XSLT">
                     <value>
                       <FeaturePluginData displayName="XSLT" pluginName="XPathView + XSLT" pluginId="XPathView" bundled="true" />
-                    </value>
-                  </entry>
-                  <entry key="docker-deploy">
-                    <value>
-                      <FeaturePluginData displayName="Docker" pluginName="IDEA CORE" pluginId="com.intellij" bundled="true" />
                     </value>
                   </entry>
                   <entry key="js.build_tools.grunt">
