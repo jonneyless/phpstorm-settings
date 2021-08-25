@@ -1,0 +1,13 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="SQL" injector-id="php">
+      <display-name>&quot;SQL select/delete/insert/update/create&quot;</display-name>
+      <place><![CDATA[and(not(phpLiteralExpression("DQL")), phpLiteralMatchesBrics(" *(((SELECT|DELETE) .*FROM)|((INSERT|REPLACE) .*INTO)|(UPDATE ~(.*[A-Za-z_][A-Za-z0-9_]*(\\\\|:)[A-Za-z_].*) SET)|(SHOW TABLES ~(.*[A-Za-z_][A-Za-z0-9_]*(\\\\|:)[A-Za-z_].*))|((CREATE|DROP|ALTER) +((TEMPORARY )?TABLE|(UNIQUE )?INDEX))) ~(.*[A-Za-z_][A-Za-z0-9_]*(\\\\|:)[A-Za-z_].*)"))]]></place>
+    </injection>
+    <injection language="JSON" injector-id="php">
+      <display-name>&lt;&lt;&lt; JSON</display-name>
+      <prefix>&lt;&lt;&lt;JSON</prefix>
+      <place><![CDATA[phpLiteralExpression("JSON")]]></place>
+    </injection>
+  </component>
+</application>
