@@ -70,4 +70,10 @@
       <option name="JSX_HTML" value="false" />
     </context>
   </template>
+  <template name="rqi" value="$request-&gt;input('$field$');" description="laravel requst input" toReformat="false" toShortenFQNames="true">
+    <variable name="field" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Expression" value="true" />
+    </context>
+  </template>
 </templateSet>
